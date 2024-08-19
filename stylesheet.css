@@ -1,0 +1,14 @@
+@import "node_modules/bootstrap/scss/functions";
+@import "node_modules/bootstrap/scss/variables";
+
+:root {
+  --bs-primary: #d0ff00; /* Custom primary color */
+  --bs-secondary: #6c757d; /* Custom secondary color */
+  --accent-color: #ff5733; /* Custom accent color */
+}
+
+btn-secondary {
+
+    margin-left: 2rem;
+
+}
